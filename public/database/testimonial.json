@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/pic01.png",
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+    "name": "Alice Bradley",
+    "desig": "Backend Developer"
+  },
+  {
+    "id": 2,
+    "img": "assets/img/pic02.png",
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+    "name": "Alice Bradley",
+    "desig": "Backend Developer"
+  },
+  {
+    "id": 3,
+    "img": "assets/img/pic03.png",
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+    "name": "Alice Bradley",
+    "desig": "Backend Developer"
+  },
+  {
+    "id": 4,
+    "img": "assets/img/pic04.png",
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+    "name": "Ema johan",
+    "desig": "Frontend Developer"
+  },
+  {
+    "id": 5,
+    "img": "assets/img/pic05.png",
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+    "name": "Jon Dou",
+    "desig": "Backend Developer"
+  },
+  {
+    "id": 6,
+    "img": "assets/img/pic06.png",
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+    "name": "Alice Bradley",
+    "desig": "Backend Developer"
+  }
+]
